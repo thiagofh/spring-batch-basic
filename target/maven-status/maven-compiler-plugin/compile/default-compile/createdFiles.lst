@@ -1,0 +1,5 @@
+com/example/SpringBatchBasicApplication.class
+com/example/PersonDb.class
+com/example/SpringBatchConfig.class
+com/example/PersonCsv.class
+com/example/SpringBatchConfig$DownloadCsvFileTasklet.class
